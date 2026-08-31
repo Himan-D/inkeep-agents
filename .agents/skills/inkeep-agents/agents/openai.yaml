@@ -1,0 +1,6 @@
+interface:
+  display_name: "Inkeep Agents"
+  short_description: "Repo-specific patterns and workflows for inkeep-agents"
+  default_prompt: "Use the inkeep-agents repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
