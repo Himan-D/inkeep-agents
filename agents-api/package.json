@@ -60,7 +60,7 @@
     "@inkeep/agents-email": "workspace:^",
     "@inkeep/agents-mcp": "workspace:^",
     "@inkeep/agents-work-apps": "workspace:^",
-    "@modelcontextprotocol/sdk": "^1.26.0",
+    "@modelcontextprotocol/sdk": "^1.31.0",
     "@opentelemetry/api": "catalog:",
     "@opentelemetry/auto-instrumentations-node": "catalog:",
     "@opentelemetry/baggage-span-processor": "catalog:",
@@ -94,7 +94,7 @@
     "jose": "^6.1.0",
     "llm-info": "^1.0.69",
     "pg": "^8.16.3",
-    "undici": "^7.25.0",
+    "undici": "^7.29.1",
     "workflow": "4.2.0-beta.67"
   },
   "peerDependencies": {
